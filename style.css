@@ -1,3 +1,6 @@
+body {
+	font-family: sans-serif;
+}
 div {
 	margin: o; 
 	padding: 0;
@@ -5,6 +8,17 @@ div {
 div div {
 	background: #A4CA39; 
 	position: relative;
+}
+h1 {
+	font-size: 32px;
+}
+h1, h2 {
+	color: #A4CA39;
+	text-align: center;
+}
+.intro {
+	display: inline-block;
+	padding: 0px 15% 0px 15%;
 }
 .android {
 	height: 404px; width: 334px;
